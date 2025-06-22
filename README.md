@@ -1,38 +1,66 @@
-# Welcome! 👋
+# 👋 Welcome to my GitHub!
 
-My name is **Raphael Martins**, and I'm passionate about **Artificial Intelligence**, **Automation**, and **Data-Driven Innovation**.
-
-**Learning, building intelligent agents, and solving real-world problems** are what I do best.
-
-I'm also an **Economist** specialized in **Generative AI, Deep Learning, and Data Intelligence**.
+I'm **Raphael Martins**, an **Economist** turned **AI Engineer** passionate about building intelligent systems that create real impact.  
+My work focuses on **Generative AI**, **Automation**, and **Data-Driven Innovation**, always with purpose and performance.
 
 ---
 
-## 🔥 Main Stacks:
+## 🚀 What I Build
 
-- 🧠 **CrewAI**
-- 📚 **LangChain**
-- 🤖 **OpenAI GPT-4**
-- 🧩 **Gemini (Google AI)**
-- 🔥 **PyTorch**
-- 🔶 **TensorFlow**
-- 🧠 **Keras**
-- 🐍 **Python**
-- 📊 **Power BI**
-- 🛢️ **Oracle SQL**
-- 🐙 **GitHub**
-- 🛠️ **Docker**
-- 🌐 **Tkinter** (GUI Development)
+From scratch to scale, I create and deploy AI-powered solutions for business automation, data analysis, and intelligent decision-making.
+
+### 🧠 Highlights of My Recent Projects:
+
+- **🛠️ AI Proposal Generator**  
+  Multi-agent system built with CrewAI and LangChain to analyze meeting transcripts and generate actionable business proposals.
+
+- **🏢 Tornelli Internal Admin System**  
+  Secure internal management platform built with Next.js, Notion API, and OpenAI, tailored for construction project coordination and communication.  
+  Includes authentication, automated workflows, and real-time information handling.
+
+- **🧬 Deep Learning in C++**  
+  Handcrafted Convolutional Neural Network from scratch using modern C++20 – no dependencies, full performance, total control.  
+  Built to deeply understand how neural networks work under the hood.
+
+- **📊 Construction Tech Dashboard**  
+  Power BI dashboard comparing traditional vs. modular construction using financial, environmental, and productivity KPIs.
+
+- **📂 Document Digitization Pipeline**  
+  Automation pipeline to convert physical archives into structured digital databases using Python, OCR, and ETL routines.
+
+- **⚙️ Workflow Automations**  
+  Development of integrated, scalable automations across platforms and APIs to streamline business operations and communication processes.
 
 ---
 
-## 📫 Let's Connect!
+## 🧰 Core Tech Stack
 
-- 📧 Email: raphaelmartins111@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/raphaelmta/](https://www.linkedin.com/in/raphaelmta/)
+| AI & LLMs         | Data & Automation  | Dev & Infra              |
+|-------------------|--------------------|---------------------------|
+| GPT-4 / OpenAI    | Power BI           | Git & GitHub             |
+| LangChain         | Oracle SQL         | Docker                   |
+| CrewAI            | OCR & API Automation | FastAPI / Flask         |
+| Gemini / Google AI | Python (Pandas, Tkinter) | C++20               |
+| PyTorch / TensorFlow | Make / Zapier      | Google Cloud / Vercel   |
+
+---
+
+## 📚 Background & Skills
+
+- 🎓 **Economist** with Post-Graduate studies in **Data Science**, **Generative AI**, and **NLP**
+- 🧠 Focused on **building AI agents**, **custom RAG pipelines**, and **automated reasoning systems**
+- 🛠️ Experienced in full lifecycle: from model design and API integration to deployment and monitoring
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmta/)
+- 📬 raphaelmartins111@gmail.com
+- 💼 [My GitHub Projects](https://github.com/raphaelmta)
 
 ---
 
 <p align="center">
-Made with 💡, ☕ coffee, and intelligent algorithms 🚀
+Built with 💡 curiosity, ☕ coffee, and AI. Let’s shape the future with code.
 </p>
